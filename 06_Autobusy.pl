@@ -11,7 +11,7 @@
 #   <Code>	<Hour>	<Minute> <Comments-Option>
 #   ......
 #  The result should a file acceptable for LaTeX template
-#  
+#  or this can be something else -- to be checked
 # 
 #======================================================================#
 
