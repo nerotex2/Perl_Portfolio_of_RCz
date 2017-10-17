@@ -10,6 +10,8 @@
 #  This is a script for creating the "general" backup of the folder given
 #  Added some comments to have GitHub changed
 #  
+# Another comment  -- again here
+# One more comment -- here
 #=====================================================================#
 #
 # We use standard 'Getopt' module to handle all options
