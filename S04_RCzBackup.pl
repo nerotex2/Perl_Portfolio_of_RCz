@@ -8,7 +8,7 @@
 #---------------------------------------------------------------------#
 #
 #  This is a script for creating the "general" backup of the folder given
-#  
+#  Added some comments to have GitHub changed
 #  
 #=====================================================================#
 #
